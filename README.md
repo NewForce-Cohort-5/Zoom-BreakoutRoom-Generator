@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What does it do?  
+
+It generates themes for Zoom breakout rooms for Cohort 5 in NewForce program.  A user can add themes and names for the breakout rooms.  
+
+## How to contribute?
+
+Thank you for your interest.  If you have an idea or you would like to code, please check out the project named Tickets - to dos(https://github.com/NewForce-Cohort-5/Zoom-BreakoutRoom-Generator/projects) and find an interesting task for you.  If you do, please make it as in progress to avoid duplicate work.  
+
 ## Available Scripts
 
 In the project directory, you can run:
