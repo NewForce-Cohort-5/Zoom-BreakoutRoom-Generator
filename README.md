@@ -10,6 +10,15 @@ It generates themes for Zoom breakout rooms for Cohort 5 in NewForce program.  A
 
 Thank you for your interest.  If you have an idea or you would like to code, please check out the project named Tickets - to dos(https://github.com/NewForce-Cohort-5/Zoom-BreakoutRoom-Generator/projects) and find an interesting task for you.  If you do, please make it as in progress to avoid duplicate work.  
 
+## How to push the task 
+
+1. Go go the NewForce 5 Zoom Repo
+2. Clone to your account
+3. Create a branch like you would for a group project
+4. When you are done, push up to the branch
+5. Create a pull request and tag a person to review the pull request
+
+
 ## Available Scripts
 
 In the project directory, you can run:
